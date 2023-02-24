@@ -1,1 +1,1 @@
-export const test = 'Hello world!'
+export * as typedObject from './lib/typedObject'
