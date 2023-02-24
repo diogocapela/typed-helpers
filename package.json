@@ -1,0 +1,32 @@
+{
+  "name": "typed-helpers",
+  "version": "0.0.1",
+  "description": "Typed utils for TypeScript codebases.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocapela/typed-helpers.git"
+  },
+  "keywords": [
+    "typed",
+    "helpers",
+    "utils",
+    "typescript"
+  ],
+  "author": "Diogo Capela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogocapela/typed-helpers/issues"
+  },
+  "homepage": "https://github.com/diogocapela/typed-helpers#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
