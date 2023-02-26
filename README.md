@@ -1,6 +1,7 @@
 # typed-helpers
 
 [![npm](https://img.shields.io/npm/v/typed-helpers.svg)](https://www.npmjs.com/package/typed-helpers)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/diogocapela/typed-helpers/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/diogocapela/typed-helpers/tree/main)
 
 Typed utils for TypeScript codebases.
 
