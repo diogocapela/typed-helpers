@@ -23,10 +23,10 @@
     "url": "https://github.com/diogocapela/typed-helpers/issues"
   },
   "homepage": "https://github.com/diogocapela/typed-helpers#readme",
-  "devDependencies": {
-    "typescript": "^4.9.5"
-  },
   "files": [
     "dist/**/*"
-  ]
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
