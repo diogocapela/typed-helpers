@@ -1,1 +1,1 @@
-export * as typedObject from './lib/typedObject'
+export * as typedObject from './lib/typedObject';
