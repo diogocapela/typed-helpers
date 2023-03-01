@@ -52,3 +52,5 @@ const typedEntries = typedObject.entries(planets);
 ## License
 
 Open source under the terms of the [MIT License](/LICENSE).
+
+Maintained by [Diogo Capela](https://diogocapela.com).
